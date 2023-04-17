@@ -1,4 +1,27 @@
 body {
-  background-color: black;
-  color: white;
+  background-color: bisque;
+  color: black;
+}
+
+h2{
+  color: navy;
+}
+
+article{
+  padding: 20px;
+}
+
+#articleOne{
+  font-family: 'Courier New';
+  border:1px dotted purple; 
+}
+
+#articleTwo{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 3px solid pink
+}
+
+#articleThree{
+  font-family: 'Trebuchet MS';
+  border: 5px dashed blue;
 }
